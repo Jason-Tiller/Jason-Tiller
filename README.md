@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://jasontiller.netlify.app/](https://jasontiller.netlify.app/)
 
+- 💬 Ask me about **CSS, HTML, Javascript, and life.**
+
 - 📫 How to reach me **T.Jason@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
